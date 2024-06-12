@@ -1,0 +1,6 @@
+framework module Pods_Phase_10_Easy_Score {
+  umbrella header "Pods-Phase 10 Easy Score-umbrella.h"
+
+  export *
+  module * { export * }
+}
