@@ -209,7 +209,7 @@ class GenHelp: UIViewController, UITextViewDelegate {
     //        width,
     //        height of the label,
     //        bold or regular text (b or r),
-    //        font
+    //        font 
     // It is the caller's responsibility to define the label variable
     // and then add it as a subview of the textview.
     //

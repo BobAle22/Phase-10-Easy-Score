@@ -238,7 +238,7 @@ class StartNewGame: UIViewController {
         aCreateController()
     }
     
-    // Create view for TheGame screen
+    // Create view for TheGame screen 
     func aCreateView() {
         scrollView.frame = view.frame
         view.addSubview(scrollView)

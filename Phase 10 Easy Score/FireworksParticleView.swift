@@ -120,7 +120,7 @@ class FireworksParticleView:UIView {
     }
     
     /*
-     * preSpark is an invisible particle used to later emit the sparkle
+     * preSpark is an invisible particle used to later emit the sparkle 
      **/
     func makeEmitterCellPrespark(firework:CAEmitterCell) -> CAEmitterCell {
         let cell = CAEmitterCell()

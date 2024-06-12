@@ -1910,7 +1910,7 @@ let initZeroPhase2 = "00"               // Constant of zero for phases (2 digits
 let initZeroPhase3 = "000"              // Constant of zero for phases (3 digits)
 let constantPhase6 = "006"              // Constant of six for end-of game phase
 let constantPhase11 = "011"             // Constant of eleven for end-of game phase
-let uPick10 = "U Pick 10"               // Constant of U Pick 10
+let uPick10 = "U Pick 10"                // Constant of U Pick 10
 let zeroPoints = "0000"                 // Constant of zero for points
 
 let movingForward = "Forward"           // Constant for setting forward controller movement direction

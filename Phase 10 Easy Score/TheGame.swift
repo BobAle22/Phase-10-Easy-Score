@@ -3395,7 +3395,7 @@ class TheGame: UIViewController {
     }
 
     @objc func aStartOverClicked(_ sender: Any) {
-        //print("\(self) \(#function) - pressing Start Over button ---")
+        //print("\(self) \(#function) - pressing Start Over button --")
         //print("\(self) \(#function) - setting backward movement direction to ViewController target")
         
         // If we have a winner and the user is exiting, ask for a rating

@@ -152,7 +152,7 @@ class AddPlayer: UIViewController, UITextFieldDelegate {
     
     @IBAction func cancelButton(_ sender: Any) {
         
-        // Always allow cancel request
+        // Always allow cancel request 
         dismiss(animated: true, completion: nil)
         allowExitFromView = true
     }

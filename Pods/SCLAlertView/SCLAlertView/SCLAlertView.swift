@@ -328,7 +328,7 @@ open class SCLAlertView: UIViewController {
             labelTitle.adjustsFontSizeToFitWidth = true
         }
         labelTitle.frame = CGRect(x:12, y:appearance.kTitleTop, width: appearance.kWindowWidth - 24, height:appearance.kTitleHeight)
-        // View text
+        // View text 
         viewText.isEditable = false
         viewText.isSelectable = false
         viewText.textAlignment = .center

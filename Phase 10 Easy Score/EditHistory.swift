@@ -1,7 +1,7 @@
 //
 //  EditHistory.swift
 //  Phase 10 Easy Score
-//
+// 
 //  Created by Robert J Alessi on 7/27/20.
 //  Copyright © 2020 Robert J Alessi. All rights reserved.
 //
